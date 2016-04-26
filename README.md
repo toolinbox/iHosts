@@ -140,4 +140,4 @@ If you have any problem or suggestion for iHosts, welcome to contact us using fo
   - You can also directly send email to [iToolinbox+ihosts@gmail.com](mailto:iToolinbox+ihosts@gmail.com)
 - In iHosts's menu, click 'More > Rate', you can open iHosts in Mac App Store. Then rate iHosts or leave your comments.
 
-Look forward to your feedbakc.
+Look forward to your feedback.
