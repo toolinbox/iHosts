@@ -9,7 +9,7 @@ iHosts is perfect for editing /etc/hosts on Mac OS X.
 
 > Do I need iHosts?
 
-If you need to edit /etc/hosts to switch different development environments, or you even have already used some tools or scripts to edit Hosts, you really need to try iHosts for free. Now iHosts supports Mac OS X.
+If you need to edit /etc/hosts, or you even have already used some tools do it, you really need to try iHosts for free. Now iHosts supports Mac OS X.
 
 [>>> Click to Download iHosts from Mac App Store for Free <<<](https://itunes.apple.com/app/id1102004240?ls=1&mt=12)
 
@@ -21,7 +21,7 @@ Click iHosts's icon in system menu bar. Then select '**Edit Hosts**' or directly
 
 ![](./images/EditHosts.png)
 
-In 'Edit Hosts' window, you could
+In 'Edit Hosts' window, you could:
 
 - Edit Hosts like editing normal plain text file.
 - Add or remove hosts or hosts group. Operating Hosts node include editing, moving up, moving down, etc.
