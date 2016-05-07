@@ -21,6 +21,7 @@ Click iHosts's icon in system menu bar. Then select '**Edit Hosts**' or directly
 
 ![](./images/EditHosts.png)
 
+
 In 'Edit Hosts' window, you could:
 
 - Edit Hosts like editing normal plain text file.
