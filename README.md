@@ -17,7 +17,7 @@ If you need to edit /etc/hosts, or you even have already used some tools do it, 
 
 To manage Hosts, start from edting Hosts.
 
-Click iHosts's icon in system menu bar. Then select '**Edit Hosts**' or directly press the shortcut of  '**Command + E**', you can open the 'Edit Hosts' window.
+Click iHosts's icon in system menu bar. Then select '**Edit Hosts**' or directly press the shortcut of  '**Command + E**', you can open the '**Edit Hosts**' window.
 
 ![](./images/EditHosts.png)
 
